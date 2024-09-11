@@ -7,3 +7,4 @@ This is a project that is part of the Holberton School curriculum. It is the fir
 
 ## Authors
 - [Denyse Mutoni](d.mutoni2@alustudent.com)
+- [Sage Muhodari](s.muhodari@alustudent.com)
