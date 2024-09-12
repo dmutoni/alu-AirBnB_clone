@@ -58,4 +58,4 @@ $ python3 -m unittest tests/test_models/test_city.py
 # Authors
 
 ## [`Denyse Mutoni Uwingeneye`](https://www.linkedin.com/in/denyse-mutoni-23790918a/)
-## [`Sage Muhodari`]()
+## [`Sage Muhodari`](https://rw.linkedin.com/in/sage-muhodari-936918185)
