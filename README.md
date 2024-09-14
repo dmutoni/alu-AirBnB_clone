@@ -1,16 +1,16 @@
-# AirBnB clone - The console 🏠🏠
+# AirBnB clone - The console
 
 
 # Description of the project
 
-This project is a simple clone of the AirBnB website. The first stage implements a backend interface or console to manage program data(like shell). Console commands allow users to create, update, destroy objects, and manage file storage. 
+This project is a basic version of the AirBnB website. The first stage builds a backend interface or console for managing program data (similar to a command-line shell). Users can use console commands to create, update, delete objects, and handle file storage.
 
 # The console - tasks
--  Put in place a parent class (called BaseModel) to take care of the initialization, serialization and deserialization of  future instances <br>
--  Create a simple flow of serialization/deserialization: Instance <-> Dictionary <-> JSON string <-> file
--  Create all classes used for AirBnB (User, State, City, Place…) that inherit from BaseModel
--  Create the first abstracted storage engine of the project: File storage.
--  Create all unittests to validate all our classes and storage engine
+- The parent class, **BaseModel**, will handle setting up, converting to, and restoring from different formats for future objects.
+- Set up a simple process for converting objects: **Instance <-> Dictionary <-> JSON string <-> file**.
+- Make all the classes for AirBnB (like **User**, **State**, **City**, **Place**, etc.) and make sure they inherit from **BaseModel**.
+- Build the first storage system for the project: **File storage**.
+- Write unit tests to make sure all classes and the storage system work correctly.
 
 
 # Description of the command interpreter
